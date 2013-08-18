@@ -1,0 +1,22 @@
+div{
+    padding: 10px;
+    font: 10pt Helvetica,Arial;
+}
+
+h1{
+    margin-top: 50px;
+}
+
+.comment{
+    margin-top: 10px;
+}
+
+.output {
+    background-color: #f0ece9;
+    margin-left: 20px;
+}
+
+.error {
+    background-color: #ff5353;
+    margin-left: 20px;
+}
